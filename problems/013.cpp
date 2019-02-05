@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 #define SIZE 100
 #define DIGITS_PER_NUMBER 50
